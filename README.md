@@ -32,4 +32,4 @@ Heart attack, heart failure and cardiac arrest are serious, but separate, condit
 
 ## **Objectives**
 
-This Machine Learning project aims to detect which of these conditions the patient is suffering for to help improve the time taken to deliver proper medical care to the patient.
+ This Machine Learning project aims to detect which of these conditions the patient is suffering for to help improve the time taken to deliver proper medical care to the patient.
